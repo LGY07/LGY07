@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**LGY07/LGY07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working in https://github.com/mutruc
 
-Here are some ideas to get you started:
+Blog:https://ursusfeline.1919810.com
 
-- 🔭 I’m currently working on @mutruc
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bilibili:https://space.bilibili.com/521342362/
+
+E-Mail:15286658193@163.com
