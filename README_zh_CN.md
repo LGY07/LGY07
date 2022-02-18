@@ -20,4 +20,12 @@
 #### 我的职业:
 `中学生`
 
+#### 我的计划:
+
+* C
+* Python
+* C++
+* C#
+* Java
+
 >别的语言: [[English](https://github.com/LGY07/LGY07/blob/main/README.md)]
