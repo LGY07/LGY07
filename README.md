@@ -1,11 +1,23 @@
 ### Hi there 👋
 
-I'm working in https://github.com/mutruc
+#### **I'm working in https://github.com/mutruc**
 
-![Image text](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
+![Mutruc](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
 
-Blog:https://blog.lgy07.me/
+>Blog:https://blog.lgy07.me/
+>
+>Bilibili:https://space.bilibili.com/521342362/
+>
+>E-Mail:15286658193@163.com
+>
 
-Bilibili:https://space.bilibili.com/521342362/
+#### My usual programming language:
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io,Crafting-DXY)
 
-E-Mail:15286658193@163.com
+#### My hall of shame:
+![Work](https://github-readme-stats.vercel.app/api?username=lgy07&show_icons=true)
+
+#### My occupation:
+`Middle School student`
+
+>In other languages: [[Chinese(Simplified)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
