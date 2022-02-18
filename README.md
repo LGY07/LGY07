@@ -20,4 +20,12 @@
 #### My occupation:
 `Middle School student`
 
+#### My plan:
+
+* C
+* Python
+* C++
+* C#
+* Java
+
 >In other languages: [[中文(简体)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
