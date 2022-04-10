@@ -24,9 +24,10 @@
 
 #### 我的计划:
 
-* C
-* Python
-* C++
-* C#
-* Java
+- [x] Bash
+- [ ] C
+- [ ] Python
+- [ ] C++
+- [ ] C#
+- [ ] Java
 
