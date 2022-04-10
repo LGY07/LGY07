@@ -24,9 +24,10 @@
 
 #### My plan:
 
-* C
-* Python
-* C++
-* C#
-* Java
+- [x] Bash
+- [ ] C
+- [ ] Python
+- [ ] C++
+- [ ] C#
+- [ ] Java
 
