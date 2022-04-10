@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+>In other languages: [[中文(简体)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
+
 #### **I'm working in https://github.com/mutruc**
 
 ![Mutruc](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
@@ -28,4 +30,3 @@
 * C#
 * Java
 
->In other languages: [[中文(简体)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
