@@ -1,5 +1,7 @@
 ### 你好呀！（） 👋
 
+>别的语言: [[English](https://github.com/LGY07/LGY07/blob/main/README.md)]
+
 #### **我在 “ https://github.com/mutruc ” 工作**
 
 ![Mutruc](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
@@ -28,4 +30,3 @@
 * C#
 * Java
 
->别的语言: [[English](https://github.com/LGY07/LGY07/blob/main/README.md)]
