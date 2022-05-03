@@ -27,7 +27,6 @@
 - [x] Bash
 - [ ] C
 - [ ] Python
+- [ ] Java
 - [ ] C++
 - [ ] C#
-- [ ] Java
-
