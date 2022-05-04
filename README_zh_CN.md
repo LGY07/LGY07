@@ -25,8 +25,8 @@
 #### 我的计划:
 
 - [x] Bash
-- [ ] C
-- [ ] Python
 - [ ] Kotlin
+- [ ] Python
+- [ ] C
 - [ ] C++
 - [ ] C#
