@@ -25,8 +25,8 @@
 #### My plan:
 
 - [x] Bash
-- [ ] C
-- [ ] Python
 - [ ] Kotlin
+- [ ] Python
+- [ ] C
 - [ ] C++
 - [ ] C#
