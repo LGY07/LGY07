@@ -10,7 +10,7 @@
 >
 >Bilibili:https://space.bilibili.com/521342362/
 >
->E-Mail:15286658193@163.com
+>E-Mail:ursusfeline@gmail.com
 >
 
 #### My usual programming language:
