@@ -6,7 +6,7 @@
 
 ![Mutruc](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
 
->Blog:https://blog.lgy07.me/
+>Blog:https://lgy07.github.io/
 >
 >Bilibili:https://space.bilibili.com/521342362/
 >
