@@ -4,7 +4,7 @@
 
 #### **我在 “ https://github.com/mutruc ” 工作**
 
-![Mutruc](https://raw.githubusercontent.com/LGY07/LGY07/cf73d73cb988f00f2977a745e28ac1cb1de329ea/Mutruc.svg)
+![Mutruc(UniversityOfFool)](https://avatars.githubusercontent.com/u/106000968)
 
 >博客:https://blog.lgy07.me/
 >
