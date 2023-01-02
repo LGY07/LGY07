@@ -2,7 +2,7 @@
 
 >In other languages: [[中文(简体)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
 
-#### **I'm working in https://github.com/mutruc**
+#### **I'm working in https://github.com/University-Of-Fool**
 
 ![Mutruc(UniversityOfFool)](https://avatars.githubusercontent.com/u/106000968)
 
