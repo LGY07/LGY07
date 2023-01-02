@@ -2,7 +2,7 @@
 
 >别的语言: [[English](https://github.com/LGY07/LGY07/blob/main/README.md)]
 
-#### **我在 “ https://github.com/mutruc ” 工作**
+#### **我在 “ [https://github.com/mutruc](https://github.com/University-Of-Fool) ” 工作**
 
 ![Mutruc(UniversityOfFool)](https://avatars.githubusercontent.com/u/106000968)
 
