@@ -14,7 +14,7 @@
 >
 
 #### My usual programming language:
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io,Crafting-DXY)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io)
 
 #### My hall of shame:
 ![Work](https://github-readme-stats.vercel.app/api?username=lgy07&show_icons=true)
