@@ -14,7 +14,7 @@
 >
 
 #### 我常用的编程语言:
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io,Crafting-DXY)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io)
 
 #### 我的耻辱榜（:
 ![Work](https://github-readme-stats.vercel.app/api?username=lgy07&show_icons=true)
