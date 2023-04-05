@@ -25,7 +25,7 @@
 #### My plan:
 
 - [x] Bash
-- [ ] Rust
+- [x] Rust
 - [ ] Kotlin
 - [ ] C
 - [ ] Java
