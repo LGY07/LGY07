@@ -25,7 +25,7 @@
 #### 我的计划:
 
 - [x] Bash
-- [ ] Rust
+- [x] Rust
 - [ ] Kotlin
 - [ ] C
 - [ ] Java
