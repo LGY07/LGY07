@@ -14,10 +14,10 @@
 >
 
 #### My usual programming language:
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io&theme=dracula)
 
 #### My hall of shame:
-![Work](https://github-readme-stats.vercel.app/api?username=lgy07&show_icons=true)
+![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=dracula&show_icons=true)
 
 #### My occupation:
 `Middle School student`
