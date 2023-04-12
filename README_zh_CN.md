@@ -14,10 +14,10 @@
 >
 
 #### 我常用的编程语言:
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io&theme=dracula)
 
 #### 我的耻辱榜（:
-![Work](https://github-readme-stats.vercel.app/api?username=lgy07&show_icons=true)
+![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=dracula&show_icons=true)
 
 #### 我的职业:
 `中学生`
