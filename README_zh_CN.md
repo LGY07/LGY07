@@ -15,8 +15,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 >博客:https://blog.lgy07.me/
 >
->哔哩哔哩:https://space.bilibili.com/521342362/
->
 >电子邮箱:15286658193@163.com
 >
 
