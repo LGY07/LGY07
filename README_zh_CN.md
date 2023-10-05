@@ -25,7 +25,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=tokyonight&show_icons=true)
 
 #### 我的职业:
-`中学生`
+`中学生` `运维`
 
 #### 我的计划:
 
