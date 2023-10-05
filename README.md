@@ -14,8 +14,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 >Blog:https://lgy07.github.io/
 >
->Bilibili:https://space.bilibili.com/521342362/
->
 >E-Mail:ursusfeline@gmail.com
 >
 
