@@ -25,13 +25,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=tokyonight&show_icons=true)
 
 #### 我的职业:
-`中学生` `运维开发`
+`大学生` `运维开发`
 
 #### 我的计划:
 
 - [x] Bash
 - [x] Rust
+- [x] C
+- [ ] TypeScript
+- [ ] C++
 - [ ] Kotlin
-- [ ] C
 - [ ] Java
-- [ ] Python
