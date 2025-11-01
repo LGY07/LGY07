@@ -24,13 +24,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=tokyonight&show_icons=true)
 
 #### My occupation:
-`Middle School student` `DevOps`
+`College student` `DevOps`
 
 #### My plan:
 
 - [x] Bash
 - [x] Rust
+- [x] C
+- [ ] TypeScript
+- [ ] C++
 - [ ] Kotlin
-- [ ] C
 - [ ] Java
-- [ ] Python
