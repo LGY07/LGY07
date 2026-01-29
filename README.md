@@ -2,8 +2,6 @@
 
 >In other languages: [[中文(简体)](https://github.com/LGY07/LGY07/blob/main/README_zh_CN.md)]
 
-#### **I'm working in https://github.com/University-Of-Fool**
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LGY07/LGY07/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LGY07/LGY07/refs/heads/output/github-contribution-grid-snake.svg" />
