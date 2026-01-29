@@ -18,10 +18,30 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 >
 
 #### My usual programming language:
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lgy07&exclude_repo=lgy07.github.io&theme=tokyonight)
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LGY07&show_icons=true&theme=dark&layout=donut"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LGY07&show_icons=true&layout=donut"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LGY07&show_icons=true" />
+</picture>
 
 #### My hall of shame:
-![Work](https://github-readme-stats.vercel.app/api?username=lgy07&theme=tokyonight&show_icons=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=LGY07&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=LGY07&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LGY07&show_icons=true" />
+</picture>
 
 #### My occupation:
 `College student` `DevOps`
