@@ -2,9 +2,6 @@
 
 >别的语言: [[English](https://github.com/LGY07/LGY07/blob/main/README.md)]
 
-#### **我在 “ https://github.com/University-Of-Fool ” 工作**
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LGY07/LGY07/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LGY07/LGY07/refs/heads/output/github-contribution-grid-snake.svg" />
