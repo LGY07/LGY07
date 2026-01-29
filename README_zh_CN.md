@@ -32,7 +32,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 - [x] Bash
 - [x] Rust
 - [x] C
-- [ ] TypeScript
 - [ ] C++
+- [ ] GLSL
+- [ ] TypeScript
 - [ ] Kotlin
 - [ ] Java
